@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28922.388
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoreAPI", "CoreAPI\CoreAPI.csproj", "{284A6169-D6AB-4791-8F8E-EEFA23E7581F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TAIEXUI", "TAIEXUI\TAIEXUI.csproj", "{B9332B6E-F109-41BC-8296-BE5289F0644A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TAIEX_BUISNESS", "TAIEX BUISNESS\TAIEX_BUISNESS.csproj", "{0F33C7FE-5A67-4F00-B3D5-35BA8A5DCB0C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{284A6169-D6AB-4791-8F8E-EEFA23E7581F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{284A6169-D6AB-4791-8F8E-EEFA23E7581F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{284A6169-D6AB-4791-8F8E-EEFA23E7581F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{284A6169-D6AB-4791-8F8E-EEFA23E7581F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9332B6E-F109-41BC-8296-BE5289F0644A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9332B6E-F109-41BC-8296-BE5289F0644A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9332B6E-F109-41BC-8296-BE5289F0644A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9332B6E-F109-41BC-8296-BE5289F0644A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F33C7FE-5A67-4F00-B3D5-35BA8A5DCB0C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F33C7FE-5A67-4F00-B3D5-35BA8A5DCB0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F33C7FE-5A67-4F00-B3D5-35BA8A5DCB0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F33C7FE-5A67-4F00-B3D5-35BA8A5DCB0C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {353A0FD7-93D6-40F5-B8E7-EAC6E005F509}
+	EndGlobalSection
+EndGlobal
