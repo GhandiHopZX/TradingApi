@@ -166,11 +166,6 @@
     <Image Include="DesktopAPP.ico" />
     <Image Include="small.ico" />
   </ItemGroup>
-  <ItemGroup>
-    <ProjectReference Include="..\TAIEXUI\TAIEXUI.csproj">
-      <Project>{b9332b6e-f109-41bc-8296-be5289f0644a}</Project>
-    </ProjectReference>
-  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
