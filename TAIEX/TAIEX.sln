@@ -3,17 +3,19 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.28922.388
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoreAPI", "CoreAPI\CoreAPI.csproj", "{284A6169-D6AB-4791-8F8E-EEFA23E7581F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CoreAPI", "CoreAPI\CoreAPI.csproj", "{284A6169-D6AB-4791-8F8E-EEFA23E7581F}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TAIEXUI", "TAIEXUI\TAIEXUI.csproj", "{B9332B6E-F109-41BC-8296-BE5289F0644A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TAIEX_BUISNESS", "TAIEX BUISNESS\TAIEX_BUISNESS.csproj", "{0F33C7FE-5A67-4F00-B3D5-35BA8A5DCB0C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TAIEX_BUISNESS", "TAIEX BUISNESS\TAIEX_BUISNESS.csproj", "{0F33C7FE-5A67-4F00-B3D5-35BA8A5DCB0C}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DesktopAPP", "DesktopAPP\DesktopAPP.vcxproj", "{5269B5B3-3B0E-40A3-B4EF-272186EA09A4}"
 EndProject
 Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "NodejsLayer", "NodejsLayer\NodejsLayer.njsproj", "{BB759D10-F179-4CF0-925A-324855D4D692}"
 EndProject
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "PygroupLayer", "PygroupLayer\PygroupLayer.pyproj", "{8705DDE3-0477-492A-818B-D68847E817F3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfBrowserLayerEX", "WpfBrowserLayerEX\WpfBrowserLayerEX.csproj", "{A4B8E4D7-5951-475C-B4EB-B230A2979047}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -95,6 +97,18 @@ Global
 		{8705DDE3-0477-492A-818B-D68847E817F3}.Release|x64.Build.0 = Release|Any CPU
 		{8705DDE3-0477-492A-818B-D68847E817F3}.Release|x86.ActiveCfg = Release|Any CPU
 		{8705DDE3-0477-492A-818B-D68847E817F3}.Release|x86.Build.0 = Release|Any CPU
+		{A4B8E4D7-5951-475C-B4EB-B230A2979047}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4B8E4D7-5951-475C-B4EB-B230A2979047}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4B8E4D7-5951-475C-B4EB-B230A2979047}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{A4B8E4D7-5951-475C-B4EB-B230A2979047}.Debug|x64.Build.0 = Debug|Any CPU
+		{A4B8E4D7-5951-475C-B4EB-B230A2979047}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{A4B8E4D7-5951-475C-B4EB-B230A2979047}.Debug|x86.Build.0 = Debug|Any CPU
+		{A4B8E4D7-5951-475C-B4EB-B230A2979047}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4B8E4D7-5951-475C-B4EB-B230A2979047}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A4B8E4D7-5951-475C-B4EB-B230A2979047}.Release|x64.ActiveCfg = Release|Any CPU
+		{A4B8E4D7-5951-475C-B4EB-B230A2979047}.Release|x64.Build.0 = Release|Any CPU
+		{A4B8E4D7-5951-475C-B4EB-B230A2979047}.Release|x86.ActiveCfg = Release|Any CPU
+		{A4B8E4D7-5951-475C-B4EB-B230A2979047}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

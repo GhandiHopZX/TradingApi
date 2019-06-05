@@ -57,7 +57,7 @@
             this.Settings_button.TabIndex = 1;
             this.Settings_button.Text = "Settings";
             this.Settings_button.UseVisualStyleBackColor = true;
-            this.Settings_button.Click += new System.EventHandler(this.Settings_button_Click);
+            this.Settings_button.Click += new System.EventHandler(this.Settings_Click);
             // 
             // Taiex_picture
             // 

@@ -27,11 +27,6 @@ namespace TAIEXUI
 
         }
 
-        private void Settings_button_Click(object sender, EventArgs e)
-        {
-
-        }
-
         private void Taiex_picture_Click(object sender, EventArgs e)
         {
 
@@ -50,6 +45,11 @@ namespace TAIEXUI
         private void PasswordBox_Validating(object sender, CancelEventArgs e)
         {
             // Password Requiered
+
+        }
+
+        private void Settings_Click(object sender, EventArgs e)
+        {
 
         }
     }
