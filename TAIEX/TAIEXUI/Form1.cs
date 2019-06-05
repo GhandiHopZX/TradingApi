@@ -10,11 +10,47 @@ using System.Windows.Forms;
 
 namespace TAIEXUI
 {
-    public partial class Form1 : Form
+    public partial class Main_Form : Form
     {
-        public Form1()
+        public Main_Form()
         {
             InitializeComponent();
+        }
+
+        private void Label1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void Login_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void Settings_button_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void Taiex_picture_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void EmailBox_Validating(object sender, CancelEventArgs e)
+        {
+            // Cannot Be empty before logging in
+        }
+
+        private void PasswordBox_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void PasswordBox_Validating(object sender, CancelEventArgs e)
+        {
+            // Password Requiered
+
         }
     }
 }
