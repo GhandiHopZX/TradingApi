@@ -1,0 +1,24 @@
+Bare bones Features - 
+
+TradingView charts need
+
+entry arrows
+
+OrderBook representation
+
+Exchange support that is alike muunship
+
+
+Stack features for late game - 
+
+Base Checker
+
+Bots for Send and Receive requests for constant layering 
+(may also alter cmds with base checker)
+
+Ledger support
+
+
+
+
+
