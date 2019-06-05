@@ -76,5 +76,11 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\TAIEX BUISNESS\TAIEX_BUISNESS.csproj">
+      <Project>{0f33c7fe-5a67-4f00-b3d5-35ba8a5dcb0c}</Project>
+      <Name>TAIEX_BUISNESS</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
