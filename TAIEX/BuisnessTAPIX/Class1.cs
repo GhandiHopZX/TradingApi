@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace TAPIX_BUISNESS
+namespace BuisnessTAPIX
 {
     public class Class1
     {
