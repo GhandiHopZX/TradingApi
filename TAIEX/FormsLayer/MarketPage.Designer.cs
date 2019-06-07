@@ -28,24 +28,25 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.Settingsbutton = new System.Windows.Forms.Button();
+            this.elementHost1 = new System.Windows.Forms.Integration.ElementHost();
             this.SuspendLayout();
             // 
-            // Settingsbutton
+            // elementHost1
             // 
-            this.Settingsbutton.Location = new System.Drawing.Point(614, 430);
-            this.Settingsbutton.Name = "Settingsbutton";
-            this.Settingsbutton.Size = new System.Drawing.Size(74, 31);
-            this.Settingsbutton.TabIndex = 0;
-            this.Settingsbutton.Text = "Settings";
-            this.Settingsbutton.UseVisualStyleBackColor = true;
+            this.elementHost1.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.elementHost1.Location = new System.Drawing.Point(0, 0);
+            this.elementHost1.Name = "elementHost1";
+            this.elementHost1.Size = new System.Drawing.Size(1174, 587);
+            this.elementHost1.TabIndex = 1;
+            this.elementHost1.Text = "elementHost1";
+            this.elementHost1.Child = null;
             // 
             // MarketPage
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(718, 484);
-            this.Controls.Add(this.Settingsbutton);
+            this.ClientSize = new System.Drawing.Size(1174, 587);
+            this.Controls.Add(this.elementHost1);
             this.Name = "MarketPage";
             this.Text = "TAPIX";
             this.ResumeLayout(false);
@@ -54,7 +55,7 @@
 
         #endregion
 
-        private System.Windows.Forms.Button Settingsbutton;
+        private System.Windows.Forms.Integration.ElementHost elementHost1;
     }
 }
 
