@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace FormsLayer
 {
-    public partial class LoginPage : Form
+    public partial class MarketPage : Form
     {
-        public LoginPage()
+        public MarketPage()
         {
             InitializeComponent();
         }
