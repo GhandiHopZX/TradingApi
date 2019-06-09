@@ -29,6 +29,9 @@
     <DebugSymbols>true</DebugSymbols>
   </PropertyGroup>
   <ItemGroup>
+    <Content Include="App.js">
+      <SubType>Code</SubType>
+    </Content>
     <Content Include="ExchangePanel.html" />
     <Content Include="file1.jsx">
       <SubType>Code</SubType>
